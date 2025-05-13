@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanju Raj Prasad</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **MERN TECH STACK**
+- 🔭 I’m currently possess experience in Java, Springboot, React, Node, Express, Mongo and MySql.
 
 - 👨‍💻 All of my projects are available at [https://sanju-raj-prasad-portfolio.netlify.app/](https://sanju-raj-prasad-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sanju-raj-6335aa184/](https://www.linkedin.com/in/sanju-raj-6335aa184/)
 
-- 💬 Ask me about **Reactjs, python, django, javascript, nodejs, expressjs, mongodb, typescript**
+- 💬 Ask me about **Reactjs, python, django, javascript, nodejs, expressjs, mongodb, typescript, java, springboot, vue.js**
 
 - 📫 How to reach me **samblaze275@gmail.com**
 
